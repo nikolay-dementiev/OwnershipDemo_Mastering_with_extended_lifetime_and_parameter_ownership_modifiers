@@ -1,6 +1,6 @@
 # Swift Parameter Ownership Modifiers Test Project
 
-This repository serves as a demonstration of the **`borrowing`** and **`consuming`** parameter ownership modifiers in Swift, as described in the article: [Mastering `withExtendedLifetime` and Parameter Ownership Modifiers (`borrowing` and `consuming`) in Swift](https://example.com). 
+This repository serves as a demonstration of the **`borrowing`** and **`consuming`** parameter ownership modifiers in Swift, as described in the article: [Almost Manual ARC in Swift. Ownership Modifiers and Lifetime Guarantees](https://dementievmykola.com/blog/mastering_with_extended_lifetime_and_parameter_ownership_modifiers__borrowing_and_consuming__in_swift). 
 
 ## Overview
 
